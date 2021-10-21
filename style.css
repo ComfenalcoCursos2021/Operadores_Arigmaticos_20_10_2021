@@ -1,0 +1,13 @@
+mark{
+    background-color: #20c997;
+    color: #fff;
+    padding: 1px;
+}
+strong{
+    background-color: #ffc107;
+    color: #fff
+}
+mark::selection, strong::selection{
+    background-color: #adb5bd;
+    color: #000;
+}
